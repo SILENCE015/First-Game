@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: ebf98173632eeff4ca73089019a32b14
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - doorLeft: {instanceID: 0}
+  - doorRight: {instanceID: 0}
+  - doorUp: {instanceID: 0}
+  - doorDown: {instanceID: 0}
+  - doors: {instanceID: 0}
+  - baseRoom: {instanceID: 0}
+  - plane: {instanceID: 0}
+  - transDoor: {fileID: 6102474078241880256, guid: 4e769ddf8a603594999dcc7222584bd2, type: 3}
+  - shop: {fileID: 302785157782808934, guid: 9611d7aa23cdf574c9a6861b3ca862e2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
